@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TODO_LIST</string>
+    <string name="task_time_format">%d hours %d minutes</string>
+</resources>
